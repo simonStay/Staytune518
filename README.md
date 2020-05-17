@@ -24,7 +24,7 @@ Currently includes:
 - Once finished open StayTune.xcworkspace in Xcode
 - Then build and run
 
-# How to setup the app on Windows
+## How to setup the app on Windows
 
 - Clone the repo
 - Cd into the folder
