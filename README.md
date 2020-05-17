@@ -14,6 +14,25 @@ Currently includes:
 - TypeScript
 - And more!
 
+## How to setup the app on iOS
+
+- Clone the repo
+- Cd into the folder
+- Run sudo npm install command
+- Then cd into ios
+- Run pod install command
+- Once finished open StayTune.xcworkspace in Xcode
+- Then build and run
+
+# How to setup the app on Windows
+
+- Clone the repo
+- Cd into the folder
+- Run npm install command
+- Make sure the Android SDK path is correct in the local file under StayTuneAPP\android
+- Start emulator
+- Run react-native run-android command
+
 ## Quick Start
 
 The Ignite Bowser boilerplate project's structure will look similar to this:
